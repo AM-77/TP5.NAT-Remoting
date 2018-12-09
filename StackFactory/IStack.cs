@@ -3,5 +3,6 @@ namespace StackFactory
 {
     public interface IStack
     {
+
     }
 }
