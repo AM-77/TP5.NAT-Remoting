@@ -35,6 +35,7 @@
     <Compile Include="IStack.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Stack.cs" />
+    <Compile Include="IStackFactory.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

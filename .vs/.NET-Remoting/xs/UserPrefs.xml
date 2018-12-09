@@ -1,7 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StackFactory/Stack.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackFactory/StackFactory.cs">
     <Files>
       <File FileName="StackFactory/Stack.cs" Line="23" Column="8" />
+      <File FileName="StackFactory/IStackFactory.cs" Line="6" Column="35" />
+      <File FileName="StackFactory/StackFactory.cs" Line="6" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

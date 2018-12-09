@@ -1,9 +1,9 @@
 ﻿using System;
 namespace StackFactory
 {
-    public class MyClass
+    public class StackFactory
     {
-        public MyClass()
+        public StackFactory()
         {
         }
     }
