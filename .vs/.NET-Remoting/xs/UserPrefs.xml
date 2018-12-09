@@ -1,9 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackFactory/IStack.cs">
+    <Files>
+      <File FileName="StackFactory/StackFactory.cs" Line="6" Column="28" />
+      <File FileName="../TP5/UsinePile/Using.cs" Line="1" Column="1" />
+      <File FileName="StackFactory/IStack.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StackFactory FirstBuild="True" />
 </Properties>
