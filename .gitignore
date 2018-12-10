@@ -4,4 +4,5 @@ StackFactory/obj/
 TheServer/bin/
 TheServer/obj/
 
-
+TheClient/bin/
+TheClient/obj/
