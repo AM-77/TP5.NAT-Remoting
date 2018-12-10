@@ -8,12 +8,6 @@ namespace StackFactory
         private readonly int size = 0;
         private ArrayList students = new ArrayList();
 
-
-        public Stack()
-        {
-            this.size = 77;
-        }
-
         public Stack(int size)
         {
             this.size = size;

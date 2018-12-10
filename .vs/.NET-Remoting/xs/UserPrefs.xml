@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{8621C358-7124-4ACF-9753-D68398BB257F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheClient/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheClient/TheClient.cs">
     <Files>
-      <File FileName="TheServer/TheServer.cs" Line="5" Column="1" />
-      <File FileName="TheClient/Program.cs" Line="5" Column="20" />
+      <File FileName="TheClient/TheClient.cs" Line="15" Column="20" />
+      <File FileName="StackFactory/IStack.cs" Line="7" Column="20" />
+      <File FileName="StackFactory/Student.cs" Line="8" Column="26" />
+      <File FileName="StackFactory/StackFactory.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TheClient FirstBuild="True" />

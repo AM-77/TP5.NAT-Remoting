@@ -5,9 +5,9 @@ namespace StackFactory
     public class Student
     {
 
-        private int id { set; get; }
-        private String name { set; get; }
-        private String f_name { set; get; }
+        public int id { set; get; }
+        public String name { set; get; }
+        public String f_name { set; get; }
 
         public Student(int id, String name, String f_name)
         {
